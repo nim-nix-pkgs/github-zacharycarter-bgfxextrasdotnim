@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648447349,
-        "narHash": "sha256-V+4mdZjg6F4c4PMyvgV8KSHh6P9/nOKD/Wy3Xlz1rdU=",
+        "lastModified": 1650754296,
+        "narHash": "sha256-FdLAWVxoToG2NvUKlm/T7+3WZ7PtSJWawrDRKBy6rIg=",
         "owner": "nim-nix-pkgs",
         "repo": "github-zacharycarter-freetype",
-        "rev": "e05e2432ec1d9edfcdcebfc379ef686196620833",
+        "rev": "821e84ab047a6aa17e46159e13e8748000ac18c4",
         "type": "github"
       },
       "original": {
